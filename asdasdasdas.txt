@@ -1,0 +1,1 @@
+https://api.telegram.org/bot6473437748:AAHe4635YheMEdJ-xTVXguy8t1sJHoqdiNw/setWebhook?url=https://onboarding.mark-lindt-finance.workers.dev/
